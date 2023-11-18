@@ -8,11 +8,11 @@ On this website a user can look up cities and get current weather, as well as, f
 3) Look at results!
 
 # URL:
-[Deployed Page](https://lmansilla92.github.io/rooster-tail/)
+[Deployed Page](https://kianaearly.github.io/Weather-is-fun/)
 
 # Screenshot:
 Landing Page:
-    ![Landing Page](./Assets/images/rooster-tail.png)
+    ![image](https://github.com/KianaEarly/Weather-is-fun/assets/140658147/504ae3fb-8dda-41cc-a513-27e91c8c7afe)
 
 # Credits:
 Kiana Early
